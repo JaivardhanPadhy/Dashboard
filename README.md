@@ -322,4 +322,4 @@ We welcome contributions to the Saas-Podcast-Platform! If you have any ideas, su
    - Open a pull request.
 
 ## <a name="contact"> Contact</a>
-For any questions or inquiries, please contact us at theofficialjaivp@gmail.com.
+For any questions or inquiries, please contact me at theofficialjaivp@gmail.com.
